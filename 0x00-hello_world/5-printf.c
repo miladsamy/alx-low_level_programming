@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - print "with proper grammar , but th outcome is a piece of art," followed newli ne
- * Return: Always 0.
+ * main - this is the main function
  *
+ * Return: 0 when successfull
  */
 
 int main(void)
